@@ -1,6 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
+excerpt_separator: <!--more-->
 
 # Name of your site (displayed in the header)
 name: allburov
