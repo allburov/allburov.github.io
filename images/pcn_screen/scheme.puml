@@ -1,0 +1,56 @@
+@startuml
+actor Оператор
+cloud Интернет
+node "Сервер"{
+    agent httpd[
+    Web-server
+    ....
+    Apache2
+    ]
+    component webpcn[
+    Web-PCN-2.0
+    ....
+    PHP
+    ]
+    database PCNMYSQL[
+    MySQL
+    PCN6
+    ]
+    agent InetServer[
+    InetServer
+    ....
+    Служба PCN6
+    ]
+}
+
+node Объект{
+    agent opp [
+    Охранно-пожарный прибор
+    ]
+}
+node Contact [
+    Мониторинговая станция
+    Контакт
+]
+
+
+opp  --|> InetServer : Используется протокол \n ContactID
+InetServer <-> Contact : Подключена по COM-порту
+InetServer --> PCNMYSQL : Пишет события в базу
+webpcn <..> httpd
+webpcn --> PCNMYSQL : Запрос событий \nиз БД
+webpcn <-- PCNMYSQL : События из БД
+control SSL [
+    Аутентификация на основе
+    SSL сертификата
+]
+
+node Браузер{
+ agent "SSL-сертификат"
+}
+Оператор <-> Браузер
+Браузер -> Интернет
+Интернет -> SSL
+SSL -> httpd
+
+@enduml
