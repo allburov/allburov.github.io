@@ -6,4 +6,4 @@ permalink: /about/
 
 Открыт к сотрудничеству!
 
-[allburov@gmail.com](mailto:allburov@gmail.com)
+[allburov+io@gmail.com](mailto:allburov+io@gmail.com)
