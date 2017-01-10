@@ -8,3 +8,5 @@ title: Система мониторинга Zabbix в процессах раз
 - Пример встраивания системы мониторинга в процессы разработки/тестирования
 
 [Презентация на slideshare](http://www.slideshare.net/phdays/zabbix-67168607)
+
+{% youtube N_v2TIlGr_0 %}
