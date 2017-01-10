@@ -7,6 +7,7 @@ title: Система мониторинга Zabbix в процессах раз
 - zabbixtools - конфигурация мониторинга на целевых серверах
 - Пример встраивания системы мониторинга в процессы разработки/тестирования
 
-[Презентация на slideshare](http://www.slideshare.net/phdays/zabbix-67168607)
+- [Youtube] (https://www.youtube.com/watch?v=N_v2TIlGr_0)
+- [Slideshare](http://www.slideshare.net/phdays/zabbix-67168607)
 
 {% youtube N_v2TIlGr_0 %}
