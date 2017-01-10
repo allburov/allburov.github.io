@@ -3,6 +3,7 @@ layout: post
 title: Система мониторинга Zabbix в процессах разработки и тестирования
 ---
 [Youtube](https://www.youtube.com/watch?v=N_v2TIlGr_0)
+
 [Slideshare](http://www.slideshare.net/phdays/zabbix-67168607)
 - Система мониторинга ресурсов различных отделов
 - Шаблоны и роли серверов, разграничение доступа и зон ответственности
