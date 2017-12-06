@@ -2,7 +2,9 @@
 layout: post
 title: Как мы собираем проекты в выделенном окружении в Windows Docker
 ---
+
 [Статья](docker-windows)
+
 [github с кодом](https://github.com/allburov/docker-windows)
 
 [Youtube](https://www.youtube.com/watch?v=Pb8AfegIfXU&index=7&list=PLEl1NAXHTFNyUW3toSkHLL4Jl1cw4vWkc)
