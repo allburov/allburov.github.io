@@ -3,7 +3,7 @@ layout: post
 title: Как мы собираем проекты в выделенном окружении в Windows Docker
 ---
 
-[Статья](docker-windows)
+[Статья](https://allburov.github.io/docker-windows/ARTICLE.html)
 
 [github с кодом](https://github.com/allburov/docker-windows)
 
