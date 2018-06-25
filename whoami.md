@@ -21,7 +21,7 @@ permalink: /whoami/
 Найти подробнее информацию можно по следующим адресам:
 - [GitHub](https://github.com/allburov) - над чем работаю и примеры кода
 - [Habr.com](https://habr.com/users/allburov/) - по возможности пишу статьи
-- [allburov+io@gmail.com](mailto:allburov+io@gmail.com) - напишите и спросить интересующий вопрос!
+- [allburov+io@gmail.com](mailto:allburov+io@gmail.com) - напишите и спросите интересующий вопрос!
 - [Linkedin](https://www.linkedin.com/in/aleksey-burov-99b06164/) - послужной список с описанием технологий. От эникей до ... (подставить последнее)
 
 
