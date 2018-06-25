@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /about/
+permalink: /whoami/
 ---
 
 - [allburov+io@gmail.com](mailto:allburov+io@gmail.com)
