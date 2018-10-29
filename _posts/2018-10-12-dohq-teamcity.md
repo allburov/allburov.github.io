@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [DevOpsHQ] TeamCity Python REST API client
+title: DevOpsHQ - TeamCity Python REST API client
 ---
 
 
