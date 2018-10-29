@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft TFS Python Library (TFS API Python client)
+title: [DevOpsHQ] Microsoft TFS Python Library (TFS API Python client)
 ---
 Python клиент для Microsoft TFS API. Умеет:
 1. Получать TFS Workitems.
