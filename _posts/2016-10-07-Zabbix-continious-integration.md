@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Op!DevOps!] Система мониторинга Zabbix в процессах разработки и тестирования
+title: OpDevOps - Система мониторинга Zabbix в процессах разработки и тестирования
 ---
 [Статья на Habrahabr](https://habrahabr.ru/company/pt/blog/325276/)
 
