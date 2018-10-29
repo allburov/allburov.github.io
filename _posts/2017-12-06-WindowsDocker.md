@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [DevOpsDays-2018] Как мы собираем проекты в выделенном окружении в Windows Docker
+title: DevOpsDays-2018 - Как мы собираем проекты в выделенном окружении в Windows Docker
 ---
 
 [Статья](https://allburov.github.io/docker-windows/ARTICLE.html)
