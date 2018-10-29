@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Инструмент ChangelogBuilder для автоматической подготовки Release Notes
+title: [Op!DevOps!] Инструмент ChangelogBuilder для автоматической подготовки Release Notes
 ---
 [Статья на Habrahabr]()
 
