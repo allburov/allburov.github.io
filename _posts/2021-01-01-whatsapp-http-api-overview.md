@@ -10,7 +10,7 @@ title: WAHA - WhatsApp HTTP API that you can configure in a click!
 
 On the Internet you can find many articles where you can “make a WhatsApp bot in 5 minutes”, but they are more ads than helpful articles. To keep using these solutions you either will have to pay every month or you have to be a large business (to use official WhatsApp HTTP API) and (have a monthly subscription) pay every month.
 
-We’ll use WhatsApp HTTP API (that is essentially just an HTTP wrapper around the best language-specific library for WhatsApp).
+We’ll use WAHA - WhatsApp HTTP API that you can configure in a click, free and open source version!
 - [WAHA ->](https://waha.devlike.pro/)
 - [GitHub ->](https://github.com/devlikepro/whatsapp-http-api)
 - [Swagger API ->](https://waha.devlike.pro/swagger/)
