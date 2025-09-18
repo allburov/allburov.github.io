@@ -5,7 +5,7 @@ title: DevOpsDays-2018 - Как мы собираем проекты в выде
 
 [Статья](https://allburov.github.io/docker-windows/ARTICLE.html)
 
-[github с кодом](https://github.com/allburov/docker-windows)
+[GitHub с кодом](https://github.com/allburov/docker-windows)
 
 [Youtube](https://www.youtube.com/watch?v=Pb8AfegIfXU&index=7&list=PLEl1NAXHTFNyUW3toSkHLL4Jl1cw4vWkc)
 
@@ -18,4 +18,4 @@ title: DevOpsDays-2018 - Как мы собираем проекты в выде
 ### Технологии:
 - Windows Docker
 - Python
-- Powershell
+- PowerShell
