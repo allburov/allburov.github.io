@@ -4,7 +4,7 @@ title: Контакты
 permalink: /contacts/
 ---
 
-<p class="contact-intro">Всегда открыт к задачам: от быстрого прототипа до внедрения под ключ.</p>
+<p class="contact-intro">Открыт к проектам: от быстрого прототипа до внедрения под ключ.</p>
 
 <a class="contact-link contact-email" href="mailto:allburov@gmail.com">
   <span class="contact-badge">@</span>
