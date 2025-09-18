@@ -180,11 +180,12 @@ img {
 
 .site-info {
   float: left;
+  margin-top: 23px;
 
   @include mobile {
     float: none;
     display: block;
-    margin: 0 auto;
+    margin: 9px auto 0;
   }
 }
 
