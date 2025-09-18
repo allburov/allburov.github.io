@@ -316,3 +316,74 @@ footer { padding: 20px 0; text-align: center; color: $muted; }
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+/* Contacts page */
+.page {
+  background: $panel;
+  border: 1px solid $border;
+  border-radius: 14px;
+  padding: 24px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.35);
+}
+
+.contact-intro {
+  margin-bottom: 18px;
+  color: $muted;
+}
+
+.contact-email {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin: 6px 0 18px;
+  padding: 10px 14px;
+  background: rgba(34, 211, 238, 0.08);
+  border: 1px solid rgba(34, 211, 238, 0.35);
+  border-radius: 12px;
+  color: $text;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 8px;
+
+  @include mobile {
+    grid-template-columns: 1fr;
+  }
+}
+
+.contact-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  border: 1px solid $border;
+  border-radius: 12px;
+  background: rgba(255,255,255,0.02);
+  color: $text;
+  transition: border-color .15s ease, box-shadow .15s ease, transform .15s ease, color .15s ease;
+}
+
+.contact-link:hover {
+  border-color: rgba($accent, .6);
+  box-shadow: 0 0 18px rgba($accent, .15);
+  color: lighten($accent, 10%);
+  transform: translateY(-1px);
+}
+
+.contact-badge {
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+  display: grid;
+  place-items: center;
+  font-weight: 800;
+  font-size: 14px;
+  letter-spacing: .4px;
+  background: #0F172A;
+  border: 1px solid $border;
+  color: $accent;
+}
