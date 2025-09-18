@@ -331,18 +331,7 @@ footer { padding: 20px 0; text-align: center; color: $muted; }
   color: $muted;
 }
 
-.contact-email {
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
-  margin: 6px 0 18px;
-  padding: 10px 14px;
-  background: rgba(34, 211, 238, 0.08);
-  border: 1px solid rgba(34, 211, 238, 0.35);
-  border-radius: 12px;
-  color: $text;
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-}
+.contact-email { margin: 6px 0 18px; }
 
 .contact-grid {
   display: grid;

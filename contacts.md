@@ -6,10 +6,10 @@ permalink: /contacts/
 
 <p class="contact-intro">Всегда открыт к задачам: от быстрого прототипа до внедрения под ключ.</p>
 
-<div class="contact-email">
+<a class="contact-link contact-email" href="mailto:allburov@gmail.com">
   <span class="contact-badge">@</span>
-  <a href="mailto:allburov@gmail.com">allburov@gmail.com</a>
-</div>
+  allburov@gmail.com
+</a>
 
 <div class="contact-grid">
   <a class="contact-link" href="https://www.linkedin.com/in/aleksey-burov-99b06164/" target="_blank" rel="noopener">
