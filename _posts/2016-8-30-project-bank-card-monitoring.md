@@ -5,7 +5,7 @@ title: Проверка доступности оплаты банковским
 
 Проверка доступности оплаты банковскими картами на кассах — вывод окна с информацией о доступности оплаты.
 
-![_config.yml]({{ site.baseurl }}/images/card_screen/1.png)
+<img style="margin: auto;display: block;" src="{{ site.baseurl }}/images/card_screen/1.png" alt="-">
 
 - Выводит поверх кассовой программы статус доступности оплаты по безналичным картам
 - Быстро (за 1 минуту) сообщает о возобновлении доступности оплаты по картам
@@ -28,12 +28,12 @@ title: Проверка доступности оплаты банковским
 
 Успешная безналичная оплата
 
-![_config.yml]({{ site.baseurl }}/images/card_screen/1.png)
+<img style="margin: auto;display: block;" src="{{ site.baseurl }}/images/card_screen/1.png" alt="-">
 
 [Нажмите сюда для увеличения]({{ site.baseurl }}/images/card_screen/1.png)
 
 Невозможность безналичной оплаты
 
-![_config.yml]({{ site.baseurl }}/images/card_screen/2.png)
+<img style="margin: auto;display: block;" src="{{ site.baseurl }}/images/card_screen/2.png" alt="-">
 
 [Нажмите сюда для увеличения]({{ site.baseurl }}/images/card_screen/2.png)
