@@ -308,6 +308,51 @@ nav {
   }
 }
 
+// Tags (post list chips)
+.post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 8px 0 10px;
+}
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba($accent, .45);
+  background: rgba($accent, .08);
+  color: $accent;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .5px;
+  text-transform: uppercase;
+  box-shadow: 0 0 0 0 rgba($accent, 0);
+  transition: border-color .15s ease, box-shadow .15s ease, color .15s ease;
+}
+
+.tag:hover {
+  border-color: $accent;
+  box-shadow: 0 0 14px rgba($accent, .16);
+  color: lighten($accent, 10%);
+}
+
+// Per-tag color accents
+.tag[data-tag="Статья"] {
+  color: lighten($muted, 8%);
+  border-color: rgba($muted, .45);
+  background: rgba($muted, .08);
+}
+
+.tag[data-tag="Продукт"],
+.tag[data-tag="Open-Source"] {
+  color: $accent2;
+  border-color: rgba($accent2, .45);
+  background: rgba($accent2, .08);
+}
+
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid $border;
