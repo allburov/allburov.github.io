@@ -313,6 +313,20 @@ nav {
   }
 }
 
+// Highlighted post (e.g., About)
+.post--highlight {
+  border-color: rgba($accent2, .6);
+  // Subtle green-tinted lift to match tags
+  box-shadow: 0 12px 36px rgba(0,0,0,.45), 0 0 0 1px rgba($accent2, .12) inset;
+  background: linear-gradient(180deg, rgba($accent2, .03), transparent 40%) $panel;
+}
+
+.post--highlight:hover {
+  // Keep consistent with green accent on hover
+  border-color: rgba($accent2, .75);
+  box-shadow: 0 14px 40px rgba(0,0,0,.50), 0 0 0 1px rgba($accent2, .16) inset;
+}
+
 // Tags (post list chips)
 .post-tags {
   display: flex;
