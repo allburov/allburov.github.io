@@ -324,13 +324,13 @@ nav {
 .tag {
   display: inline-flex;
   align-items: center;
-  padding: 3px 12px; // balanced vertical feel
+  padding: 6px 12px; // balanced vertical feel
   border-radius: 999px;
   border: 1px solid rgba($accent2, .45);
   background: rgba($accent2, .08);
   color: $accent2;
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  font-size: 13px; // a bit bigger
+  font-size: 16px; // a bit bigger
   font-weight: 700;
   letter-spacing: .5px;
   text-transform: uppercase;
