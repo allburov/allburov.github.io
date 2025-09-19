@@ -324,7 +324,7 @@ nav {
 .tag {
   display: inline-flex;
   align-items: center;
-  padding: 6px 12px; // balanced vertical feel
+  padding: 7px 12px 5px 12px; // slightly more top than bottom for visual balance
   border-radius: 999px;
   border: 1px solid rgba($accent2, .45);
   background: rgba($accent2, .08);
