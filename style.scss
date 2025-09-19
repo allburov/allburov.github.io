@@ -338,6 +338,11 @@ nav {
   box-shadow: 0 14px 40px rgba(0,0,0,.50), 0 0 0 1px rgba($accent2, .16) inset;
 }
 
+// Dim overly bright images only for specific posts
+.post.post--dim-images img[src*="/images/"] {
+  filter: brightness(0.97) contrast(1.02);
+}
+
 // Tags (post list chips)
 .post-tags {
   display: flex;
