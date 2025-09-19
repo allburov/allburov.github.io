@@ -31,10 +31,10 @@ tags: [ПРОЕКТ]
 
 <img style="margin: auto;display: block;" src="{{ site.baseurl }}/images/card_screen/1.png" alt="-">
 
-[Нажмите сюда для увеличения]({{ site.baseurl }}/images/card_screen/1.png)
+[Открыть в полном размере]({{ site.baseurl }}/images/card_screen/1.png)
 
 Невозможность безналичной оплаты
 
 <img style="margin: auto;display: block;" src="{{ site.baseurl }}/images/card_screen/2.png" alt="-">
 
-[Нажмите сюда для увеличения]({{ site.baseurl }}/images/card_screen/2.png)
+[Открыть в полном размере]({{ site.baseurl }}/images/card_screen/2.png)

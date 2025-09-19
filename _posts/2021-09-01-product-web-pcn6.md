@@ -33,35 +33,35 @@ tags: [ПРОЕКТ]
 
 ![_config.yml]({{ site.baseurl }}/images/pcn_screen/2.png)
 
-[Нажмите сюда для увеличения]({{ site.baseurl }}/images/pcn_screen/2.png)
+[Открыть в полном размере]({{ site.baseurl }}/images/pcn_screen/2.png)
 
 
 ### Описание объекта
 
 ![_config.yml]({{ site.baseurl }}/images/pcn_screen/3.png)
 
-[Нажмите сюда для увеличения]({{ site.baseurl }}/images/pcn_screen/3.png)
+[Открыть в полном размере]({{ site.baseurl }}/images/pcn_screen/3.png)
 
 
 ### Журнал объекта
 
 ![_config.yml]({{ site.baseurl }}/images/pcn_screen/4.png)
 
-[Нажмите сюда для увеличения]({{ site.baseurl }}/images/pcn_screen/4.png)
+[Открыть в полном размере]({{ site.baseurl }}/images/pcn_screen/4.png)
 
 
 ### Пользователи
 
 ![_config.yml]({{ site.baseurl }}/images/pcn_screen/5.png)
 
-[Нажмите сюда для увеличения]({{ site.baseurl }}/images/pcn_screen/5.png)
+[Открыть в полном размере]({{ site.baseurl }}/images/pcn_screen/5.png)
 
 
 ### Группы объектов
 
 ![_config.yml]({{ site.baseurl }}/images/pcn_screen/6.png)
 
-[Нажмите сюда для увеличения]({{ site.baseurl }}/images/pcn_screen/6.png)
+[Открыть в полном размере]({{ site.baseurl }}/images/pcn_screen/6.png)
 
 
 ### Обработка тревоги
@@ -69,11 +69,11 @@ tags: [ПРОЕКТ]
 
 ![_config.yml]({{ site.baseurl }}/images/pcn_screen/7.png)
 
-[Нажмите сюда для увеличения]({{ site.baseurl }}/images/pcn_screen/7.png)
+[Открыть в полном размере]({{ site.baseurl }}/images/pcn_screen/7.png)
 
 
 ### Завершение обработки
 
 ![_config.yml]({{ site.baseurl }}/images/pcn_screen/8.png)
 
-[Нажмите сюда для увеличения]({{ site.baseurl }}/images/pcn_screen/8.png)
+[Открыть в полном размере]({{ site.baseurl }}/images/pcn_screen/8.png)
