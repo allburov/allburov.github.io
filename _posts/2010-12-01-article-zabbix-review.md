@@ -9,5 +9,7 @@ Code review — инженерная практика в терминах гиб
 ![_config.yml]({{ site.baseurl }}/images/ekrmurfptreli-wzvyrdbwm6ycg.png)
 
 Сегодня расскажу о том, как мы организовали процесс review для конфигурации мониторинга в Zabbix. Статья будет полезна тем, кто работает с системой мониторинга Zabbix, как в большой команде, так и в одиночку, даже если у вас «десять хостов, что там ревьюить».
+
+Подробнее:
 - [Статья на Habr](https://habr.com/company/pt/blog/433126/)
 - [GitLab](https://gitlab.com/devopshq/zabbix-review-export)

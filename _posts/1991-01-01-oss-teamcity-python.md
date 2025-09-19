@@ -9,4 +9,6 @@ tags: [Open-Source]
 [![pypi](https://img.shields.io/pypi/v/dohq-teamcity.svg)](https://pypi.python.org/pypi/dohq-teamcity)
 [![license](https://img.shields.io/pypi/l/dohq-teamcity.svg)](https://github.com/devopshq/teamcity/blob/master/LICENSE)
 
-`dohq-teamcity` is a Python package providing access to the JetBrains TeamCity server API. This library supports all [TeamCity API](https://confluence.jetbrains.com/display/TCD10/REST+API) methods. If you don't find a method, please open an issue.
+`dohq-teamcity` is a Python package providing access to the JetBrains TeamCity server API. This library supports all [TeamCity API](https://confluence.jetbrains.com/display/TCD10/REST+API) methods. 
+
+If you don't find a method, please open an issue.
