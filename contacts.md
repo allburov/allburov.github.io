@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Контакты
+title: Как связаться ✉️
 permalink: /contacts/
 ---
 
-<p class="contact-intro">Открыт к проектам: от быстрого прототипа до внедрения под ключ.</p>
+<p class="contact-intro">Открыт к проектам: от быстрого прототипа до внедрения под ключ. <br/>Напишите на email — обсудим ваш проект.</p>
 
 <a class="contact-link contact-email" href="mailto:allburov@gmail.com">
   <span class="contact-badge">@</span>
