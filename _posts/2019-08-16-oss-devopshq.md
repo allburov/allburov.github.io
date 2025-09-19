@@ -11,5 +11,3 @@ title: DevOpsHQ
 * [dohq-artifactory](https://devopshq.github.io/artifactory/) — Python client for JFrog Artifactory API.
 * [crosspm](http://devopshq.github.io/crosspm/) — cross-platform package manager (C/C++ oriented).
 * [dohq-youtrack](https://devopshq.github.io/youtrack/) — Python client for JetBrains YouTrack API.
-
-По любым вопросам можно обратиться к админам проекта: [Alexander Pazdnikov](https://github.com/apazdnikov), [Timur Gilmullin](https://github.com/Tim55667757) и [Aleksey Burov](https://github.com/orgs/devopshq/people/allburov). 
