@@ -287,9 +287,8 @@ nav {
     box-shadow: 0 10px 24px rgba(0,0,0,.25);
   }
 
-  // Reduce glare of white-heavy screenshots in specific posts by adding a dark frame
-  img[src*="/pcn_screen/"],
-  img[src*="/card_screen/"] {
+  // Add dark frame to any images served from /images/ to reduce glare on dark theme
+  img[src*="/images/"] {
     background: $bg;
     padding: 8px;
     border-radius: 14px;
