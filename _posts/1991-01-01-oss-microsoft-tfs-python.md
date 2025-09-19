@@ -1,6 +1,7 @@
 ---
 layout: post
 title: DevOpsHQ - Microsoft TFS Python Library (TFS API Python client)
+tags: [Open-Source]
 ---
 Python клиент для Microsoft TFS API. Умеет:
 1. Получать TFS Workitems.
@@ -15,5 +16,4 @@ pip install dohq-tfs [--upgrade] [--pre]
 ```
 - [github](https://github.com/devopshq/tfs)
 - [PyPi dohq-tfs](https://pypi.python.org/pypi/dohq-tfs) 
-
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: DevOpsHQ - TeamCity Python REST API client
+tags: [Open-Source]
 ---
 
 [![docs](https://img.shields.io/badge/docs-published-brightgreen.svg)](https://devopshq.github.io/teamcity/)

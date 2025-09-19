@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OpDevOps - Инструмент ChangelogBuilder для автоматической подготовки Release Notes
+tags: [Доклад]
 ---
 [Статья на Habrahabr]()
 
