@@ -417,7 +417,7 @@ footer { padding: 20px 0; text-align: center; color: $muted; }
   height: 36px; // longer connector
   background: $accent2;
   opacity: .9;
-  margin: 10px 0 12px;
+  margin: 10px auto 12px; // center horizontally under text
   border-radius: 2px;
 }
 
@@ -425,7 +425,7 @@ footer { padding: 20px 0; text-align: center; color: $muted; }
   .post .step-flow .step { font-size: 18px; }
   .post .step-flow .step:not(:last-child)::after {
     height: 28px; // slightly shorter on small screens
-    margin: 8px 0 10px;
+    margin: 8px auto 10px; // keep centered on mobile
   }
 }
 
