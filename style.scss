@@ -406,7 +406,7 @@ footer { padding: 20px 0; text-align: center; color: $muted; }
   font-size: 20px;
   line-height: 1.6;
   margin: 0;
-  color: $text;
+  color: $accent2; // match step--done color
 }
 
 .post .step-flow .step:not(:last-child)::after {
