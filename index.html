@@ -21,7 +21,7 @@ layout: default
       </div>
 
       {% if post.content contains site.excerpt_separator or post.cut == true %}
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Читать полностью</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ post.read_more_label | default: site.read_more_label | default: 'Читать полностью' }}</a>
       {% endif %}
     </article>
   {% endfor %}
