@@ -6,7 +6,11 @@ layout: default
   {% for post in site.posts %}
     <article class="post{% if post.highlight %} post--highlight{% endif %}">
 
+      {% if post.title_clickable == false %}
+      <h1>{{ post.title }}</h1>
+      {% else %}
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      {% endif %}
 
       {% if post.tags %}
       <div class="post-tags">
