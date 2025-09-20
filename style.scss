@@ -410,16 +410,36 @@ footer { padding: 20px 0; text-align: center; color: $muted; }
 }
 
 .post .step-flow .step:not(:last-child)::after {
-  content: "↓";
+  // Vertical connector (no arrowhead)
+  content: "";
   display: block;
-  color: $accent2;
+  width: 3px;   // a bit thicker
+  height: 36px; // longer connector
+  background: $accent2;
   opacity: .9;
-  margin: 8px 0 10px;
+  margin: 10px 0 12px;
+  border-radius: 2px;
 }
 
 @include mobile {
   .post .step-flow .step { font-size: 18px; }
-  .post .step-flow .step:not(:last-child)::after { margin: 6px 0 8px; }
+  .post .step-flow .step:not(:last-child)::after {
+    height: 28px; // slightly shorter on small screens
+    margin: 8px 0 10px;
+  }
+}
+
+// Final done mark (explicit V at the end)
+.post .step-flow .step--done {
+  font-size: 28px;
+  font-weight: 800;
+  color: $accent2;
+  margin-top: 6px;
+  letter-spacing: 2px;
+}
+
+@include mobile {
+  .post .step-flow .step--done { font-size: 24px; letter-spacing: 1px; }
 }
 
 /* Contacts page */
