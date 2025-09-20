@@ -392,6 +392,36 @@ footer { padding: 20px 0; text-align: center; color: $muted; }
 @import "highlights";
 @import "svg-icons";
 
+// Vertical step flow for project page
+.post .step-flow {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin: 18px 0 22px;
+}
+
+.post .step-flow .step {
+  max-width: 740px;
+  font-size: 20px;
+  line-height: 1.6;
+  margin: 0;
+  color: $text;
+}
+
+.post .step-flow .step:not(:last-child)::after {
+  content: "↓";
+  display: block;
+  color: $accent2;
+  opacity: .9;
+  margin: 8px 0 10px;
+}
+
+@include mobile {
+  .post .step-flow .step { font-size: 18px; }
+  .post .step-flow .step:not(:last-child)::after { margin: 6px 0 8px; }
+}
+
 /* Contacts page */
 .page {
   background: $panel;
