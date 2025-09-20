@@ -9,9 +9,9 @@ read_more_label: Подробнее про проект
 
 ![_config.yml]({{ site.baseurl }}/images/pcn_screen/1.png)
 
-[Открыть в полном размере]({{ site.baseurl }}/images/pcn_screen/1.png)
-
 <!--more-->
+
+[Открыть в полном размере]({{ site.baseurl }}/images/pcn_screen/1.png)
 
 - Легкий и быстрый веб-интерфейс (в сравнении со стандартным веб-интерфейсом)
 - Разграничение объектов по операторам (групповой доступ)
