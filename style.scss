@@ -324,6 +324,7 @@ nav {
       border-color: $accent;
       box-shadow: 0 0 18px rgba($accent, .18);
     }
+    &.back:before { content: "‹"; }
   }
 }
 
