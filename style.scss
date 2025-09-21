@@ -492,8 +492,9 @@ footer { padding: 20px 0; text-align: center; color: $muted; }
   width: 34px;
   height: 34px;
   border-radius: 8px;
-  display: grid;
+  display: inline-grid; // inline so it doesn't break lines in text
   place-items: center;
+  vertical-align: middle; // align nicely with surrounding text
   font-weight: 800;
   font-size: 14px;
   letter-spacing: .4px;
@@ -501,3 +502,6 @@ footer { padding: 20px 0; text-align: center; color: $muted; }
   border: 1px solid $border;
   color: $accent;
 }
+
+// When the badge appears at the end of inline link text in posts
+.post .step-flow .step a .contact-badge { margin-left: 6px; }
