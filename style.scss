@@ -503,5 +503,9 @@ footer { padding: 20px 0; text-align: center; color: $muted; }
   color: $accent;
 }
 
-// When the badge appears at the end of inline link text in posts
-.post .step-flow .step a .contact-badge { margin-left: 6px; }
+// Keep link text and badge on the same line, including on mobile
+.post .step-flow .step a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
